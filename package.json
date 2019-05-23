@@ -1,5 +1,5 @@
 {
-  "name": "testing-with-react",
+  "name": "testing-react-redux-with-jest-and-enzyme",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
